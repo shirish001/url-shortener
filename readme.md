@@ -1,5 +1,7 @@
 # URL Shortener Project
 
+Deployed project link -> https://url-shortener-fws2.onrender.com
+
 This project is a simple URL shortener built using NodeJS, MongoDB, and Mongoose.It includes a backend server with Express.js, a MongoDB database for storing URLs, and a minimal frontend to display and manage shortened URLs.The short IDs are generated using the `nanoid` npm package.
 
 ## Prerequisites
